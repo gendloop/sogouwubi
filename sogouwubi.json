@@ -17,10 +17,10 @@
             "Pop-Location"
         ]
     },
-    "bin": "sogouwubi.exe",
+    "bin": "ConfigIE.exe",
     "shortcuts": [
         [
-            "sogouwubi.exe",
+            "ConfigIE.exe",
             "sogouwubi"
         ]
     ],
