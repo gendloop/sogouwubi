@@ -1,0 +1,5 @@
+
+PROJECT_NAME=sogouwubi
+sogouwubi_VERSION_MAJOR=1
+sogouwubi_VERSION_MINOR=0
+sogouwubi_VERSION_PATCH=0
